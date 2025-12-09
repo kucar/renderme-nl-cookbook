@@ -1,0 +1,33 @@
+{
+  "template": {
+    "title": "Vertical Nature Slideshow (9:16)",
+    "description": "A scenic 15-second vertical slideshow featuring majestic mountains and serene forests, optimized for mobile viewing",
+    "scenes": [
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1671325/pexels-photo-1671325.jpeg"
+        }
+      }
+    ]
+  },
+  "aspect_ratio": "9:16"
+}

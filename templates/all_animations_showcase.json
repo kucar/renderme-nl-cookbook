@@ -1,0 +1,164 @@
+{
+    "title": "All Animations Showcase",
+    "description": "A comprehensive demonstration of all supported image animations and text overlay styles.",
+    "global_settings": {
+        "narration": {
+            "enabled": true
+        },
+        "text_overlay": {
+            "enabled": true,
+            "font_size": 40,
+            "text_color": "#FFFFFF",
+            "outline_color": "#000000",
+            "outline_width": 3
+        },
+        "tts": {
+            "voice_id": "21m00Tcm4TlvDq8ikWAM"
+        }
+    },
+    "scenes": [
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+            },
+            "tts": {
+                "text": "RenderMe: Animation Showcase, Zoom In: (Slow)"
+            },
+            "animation": {
+                "type": "zoom_in",
+                "speed": "slow"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg"
+            },
+            "tts": {
+                "text": "Lets , Zoom Out: (Medium)"
+            },
+            "animation": {
+                "type": "zoom_out",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 4,
+            "assets": {
+                "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg"
+            },
+            "tts": {
+                "text": "Zoom In, and  Out (Fast),"
+            },
+            "animation": {
+                "type": "zoom_in_out",
+                "speed": "fast"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg"
+            },
+            "tts": {
+                "text": "And , Pan Left"
+            },
+            "animation": {
+                "type": "pan_left",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg"
+            },
+            "tts": {
+                "text": "And, Pan Right"
+            },
+            "animation": {
+                "type": "pan_right",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg"
+            },
+            "tts": {
+                "text": "And, Pan Up"
+            },
+            "animation": {
+                "type": "pan_up",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg"
+            },
+            "tts": {
+                "text": "And, Pan Down"
+            },
+            "animation": {
+                "type": "pan_down",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 4,
+            "assets": {
+                "image": "https://images.pexels.com/photos/1183099/pexels-photo-1183099.jpeg"
+            },
+            "tts": {
+                "text": "Ken Burns: Center"
+            },
+            "animation": {
+                "type": "ken_burns_center",
+                "speed": "slow"
+            }
+        },
+        {
+            "duration": 4,
+            "assets": {
+                "image": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+            },
+            "tts": {
+                "text": "Ken Burns: Top Left"
+            },
+            "animation": {
+                "type": "ken_burns_top_left",
+                "speed": "slow"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg"
+            },
+            "tts": {
+                "text": "This is , Rotate Clockwise"
+            },
+            "animation": {
+                "type": "rotate_clockwise",
+                "speed": "medium"
+            }
+        },
+        {
+            "duration": 3,
+            "assets": {
+                "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg"
+            },
+            "tts": {
+                "text": "And, Rotate Counter-Clockwise"
+            },
+            "animation": {
+                "type": "rotate_counterclockwise",
+                "speed": "medium"
+            }
+        }
+    ]
+}

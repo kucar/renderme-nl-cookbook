@@ -1,0 +1,179 @@
+{
+  "template": {
+    "title": "Animation Effects Nature Showcase",
+    "description": "A comprehensive 16:9 demonstration of varied animation effects featuring diverse nature landscapes",
+    "scenes": [
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg"
+        },
+        "animation": {
+          "type": "none",
+          "speed": "medium"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+        },
+        "animation": {
+          "type": "zoom_in",
+          "speed": "slow"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg"
+        },
+        "animation": {
+          "type": "zoom_out",
+          "speed": "medium"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg"
+        },
+        "animation": {
+          "type": "zoom_in_out",
+          "speed": "fast"
+        }
+      },
+      {
+        "duration": 5,
+        "assets": {
+          "image": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg"
+        },
+        "animation": {
+          "type": "pan_left",
+          "speed": "very_slow"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg"
+        },
+        "animation": {
+          "type": "pan_right",
+          "speed": "slow"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg"
+        },
+        "animation": {
+          "type": "pan_up",
+          "speed": "medium"
+        }
+      },
+      {
+        "duration": 5,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1183099/pexels-photo-1183099.jpeg"
+        },
+        "animation": {
+          "type": "pan_down",
+          "speed": "fast"
+        }
+      },
+      {
+        "duration": 6,
+        "assets": {
+          "image": "https://images.pexels.com/photos/235615/pexels-photo-235615.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_center",
+          "speed": "very_slow"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/462113/pexels-photo-462113.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_top_left",
+          "speed": "slow"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_top_right",
+          "speed": "medium"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/355296/pexels-photo-355296.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_bottom_left",
+          "speed": "fast"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1428277/pexels-photo-1428277.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_bottom_right",
+          "speed": "slow"
+        }
+      },
+      {
+        "duration": 5,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1417255/pexels-photo-1417255.jpeg"
+        },
+        "animation": {
+          "type": "rotate_clockwise",
+          "speed": "very_fast"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/624015/pexels-photo-624015.jpeg"
+        },
+        "animation": {
+          "type": "rotate_counterclockwise",
+          "speed": "fast"
+        }
+      },
+      {
+        "duration": 6,
+        "assets": {
+          "image": "https://images.pexels.com/photos/709552/pexels-photo-709552.jpeg"
+        },
+        "animation": {
+          "type": "ken_burns_center",
+          "speed": "very_slow"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg"
+        },
+        "animation": {
+          "type": "none",
+          "speed": "medium"
+        }
+      }
+    ]
+  },
+  "aspect_ratio": "16:9"
+}

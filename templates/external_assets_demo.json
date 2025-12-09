@@ -1,0 +1,32 @@
+{
+  "template": {
+    "title": "Nature Video Mix",
+    "description": "A 14-second demonstration mixing nature images and video content.",
+    "scenes": [
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+        }
+      },
+      {
+        "duration": 7,
+        "assets": {
+          "video": "https://renderme-demo.s3.eu-north-1.amazonaws.com/3571264-hd_1920_1080_30fps.mp4"
+        },
+        "video_processing": {
+          "speed": 1.0,
+          "start_time": 0,
+          "end_time": 7
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg"
+        }
+      }
+    ]
+  },
+  "aspect_ratio": "16:9"
+}

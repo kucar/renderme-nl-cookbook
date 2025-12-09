@@ -1,0 +1,83 @@
+{
+  "template": {
+    "title": "Text-to-Speech Demonstration",
+    "description": "A 15-second showcase of TTS narration with synchronized text overlay animations",
+    "global_settings": {
+      "narration": {
+        "enabled": true
+      },
+      "text_overlay": {
+        "enabled": true
+      }
+    },
+    "scenes": [
+      {
+        "duration": 5,
+        "assets": {
+          "image": "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg"
+        },
+        "tts": {
+          "text": "Hello! Welcome to RenderMe's text-to-speech demonstration.",
+          "voice_id": "21m00Tcm4TlvDq8ikWAM",
+          "speed": 1.0,
+          "stability": 0.5,
+          "similarity_boost": 0.5
+        },
+        "text_overlay": {
+          "enabled": true,
+          "animation_type": "highlight",
+          "highlight_color": "#FF9900",
+          "text_color": "#FFFFFF",
+          "background_color": "rgba(0,0,0,0.7)",
+          "font_family": "Arial",
+          "font_size": 36,
+          "position": "bottom",
+          "word_highlight_style": "underline"
+        }
+      },
+      {
+        "duration": 6,
+        "assets": {
+          "image": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg"
+        },
+        "tts": {
+          "text": "This amazing tool can generate speech and animate text in perfect synchronization!",
+          "voice_id": "21m00Tcm4TlvDq8ikWAM",
+          "speed": 0.9,
+          "stability": 0.6
+        },
+        "text_overlay": {
+          "enabled": true,
+          "animation_type": "highlight",
+          "highlight_color": "#00FFFF",
+          "text_color": "#FFFFFF",
+          "font_size": 32,
+          "position": "center",
+          "word_highlight_style": "background"
+        }
+      },
+      {
+        "duration": 4,
+        "assets": {
+          "image": "https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg"
+        },
+        "tts": {
+          "text": "Try it out today and create amazing videos!",
+          "voice_id": "21m00Tcm4TlvDq8ikWAM",
+          "speed": 1.1,
+          "stability": 0.4
+        },
+        "text_overlay": {
+          "enabled": true,
+          "animation_type": "highlight",
+          "highlight_color": "#FFD700",
+          "text_color": "#FFFFFF",
+          "font_size": 40,
+          "position": "center",
+          "word_highlight_style": "bold"
+        }
+      }
+    ]
+  },
+  "aspect_ratio": "16:9"
+}

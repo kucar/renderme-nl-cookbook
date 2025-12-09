@@ -1,0 +1,33 @@
+{
+  "template": {
+    "title": "Simple Slideshow - Basic Image Sequence",
+    "description": "A 12-second basic slideshow demonstrating simple image transitions with colored sample assets",
+    "scenes": [
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://n8n-zodiac.s3.eu-north-1.amazonaws.com/renderme_test/external/image_003_16x9_1080.jpeg"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://n8n-zodiac.s3.eu-north-1.amazonaws.com/renderme_test/external/image_010_16x9_1080.jpeg"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://n8n-zodiac.s3.eu-north-1.amazonaws.com/renderme_test/external/image_011_16x9_1080.jpeg"
+        }
+      },
+      {
+        "duration": 3,
+        "assets": {
+          "image": "https://n8n-zodiac.s3.eu-north-1.amazonaws.com/renderme_test/external/image_038_16x9_1080.jpeg"
+        }
+      }
+    ]
+  },
+  "aspect_ratio": "16:9"
+}
